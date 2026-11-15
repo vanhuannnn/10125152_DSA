@@ -12,8 +12,7 @@ dotnet run --project Buoi01_DeQuy
 
 ## Kết quả chạy
 ```
-(Dán toàn bộ kết quả chạy từ màn hình đen vào đây)
-```================ MỤC 1.4.2 ================
+================ MỤC 1.4.2 ================
 
 --- Mục 1.4.2 - Bài 1: Tìm Max, Min mảng 1000 số ---
 Số lớn nhất: 9994
